@@ -2,7 +2,6 @@
 require('dotenv').config()
 const express = require('express')
 const bodyParser = require('body-parser')
-const cookieSession = require('cookie-session')
 const cors = require('cors')
 const app = express();
 const cookieSession = require('cookie-session')
